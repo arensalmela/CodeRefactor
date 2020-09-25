@@ -1,3 +1,5 @@
+![ScreenShot](./CodeRefactorImage.png)
+
 This project is called CodeRefactor.
 
 I was tasked with refactoring current HTML with more user friendly semantic HTML elements.
@@ -58,5 +60,3 @@ Repository follows best practices for class/id naming conventions, indentation, 
 Repository contains multiple descriptive commit messages.
 
 Repository contains quality README file with description, screenshot, and link to deployed application.
-
-<link href= "Coderefactor/CodeRefactorImage.png">
