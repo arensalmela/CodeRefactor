@@ -4,7 +4,7 @@ https://arensalmela.github.io/CodeRefactor/
 
 ![ScreenShot](./CodeRefactorImage.png)
 
-## CodeRafactor Project
+## CodeRefactor Project
 
 I was tasked with refactoring current HTML with more user friendly semantic HTML elements.
 
