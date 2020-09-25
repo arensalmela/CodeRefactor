@@ -2,7 +2,7 @@
 
 https://arensalmela.github.io/CodeRefactor/
 
-![ScreenShot](./CodeRefactorImage.png)
+![ScreenShot of Website](./CodeRefactorImage.png)
 
 ## CodeRefactor Project
 
@@ -24,7 +24,7 @@ THEN I find a concise, descriptive title
 
 ## Adjustments
 
-The majority of adjustments included changing <div> to semantic HTML elements. This includes <main> , <section> , <nav> , <aside> , and <footer>.
+The majority of adjustments included changing div to semantic HTML elements. This includes main, section , nav, aside , and footer.
 Semantic elements help describe the meaning in a easier manner to the browser and developer.
 
 CSS selectors and properties were also consolidated and organized to follow semantic structure that was changed within the orginal HTML.
@@ -33,7 +33,7 @@ Added Id to SEO section to activate link.
 
 ## Grading Criteria
 
-**bold** Technical Acceptance Criteria: 40%
+**Technical Acceptance Criteria: 40%**
 
 Satisfies all of the above acceptance criteria plus the following code improvements:
 
@@ -43,7 +43,7 @@ Application's CSS selectors and properties are consolidated and organized to fol
 
 Application's CSS file is properly commented.
 
-**bold** Deployment: 32%
+**Deployment: 32%**
 
 Application deployed at live URL.
 
@@ -53,11 +53,11 @@ Application GitHub URL submitted.
 
 GitHub repository that contains application code.
 
-**bold** Application Quality: 15%
+**Application Quality: 15%**
 
 Application resembles (at least 90%) screenshots provided in the homework instructions.
 
-**bold** Repository Quality: 13%
+**Repository Quality: 13%**
 
 Repository has a unique name.
 
