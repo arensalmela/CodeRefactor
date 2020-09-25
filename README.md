@@ -59,4 +59,4 @@ Repository contains multiple descriptive commit messages.
 
 Repository contains quality README file with description, screenshot, and link to deployed application.
 
-<link href= "./CodeRefactorImage.png>
+<link href= "Coderefactor/CodeRefactorImage.png">
